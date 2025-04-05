@@ -28,6 +28,8 @@ Make sure to **shower** and **`install Python3`** along with **`adding it to you
 
 It is also important that you all **dress in appropriate computer science attire** for my workshop! I am passionate about coding so its important to look the part and show off that you are all passionate as well! Attached to this message is an **outfit I deem appropriate for my workshop :3**
 
+![alt text](../assets/CS-Attire.jpg)
+
 I will provide:
 > My Slideshow Presentation
 
