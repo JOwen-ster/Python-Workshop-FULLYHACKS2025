@@ -43,7 +43,7 @@ Definitions:
 
 2. Showering - Cleaning yourself off using water and soap.
 
-3. CS Attire - Outfit all CS majors will be using by the end of their degree.
+3. CS Attire - Outfit all CS majors will be using by the end of their degree. (Applies to me as well so dont worry!!!)
 
 4. Grass - we will figure it out (maybe)...
 
