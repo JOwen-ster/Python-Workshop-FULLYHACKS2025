@@ -1,6 +1,6 @@
 # Python-Workshop-FULLYHACKS2025
 
-Heyyyy my fellow Pythonistas and or soon to be Pythonistas 💖!!!
+Heyyyy my beautiful Pythonistas and or soon to be Pythonistas 💖!!!
 
 I am your **`Intro to Python Workshop lead`**, you can call me **`Owen`**!
 I will be teaching you the following in Python:
