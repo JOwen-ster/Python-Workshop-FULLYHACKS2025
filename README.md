@@ -6,12 +6,19 @@ I am your **Intro to Python Workshop lead**, you can call me **Owen**!
 I will be teaching you the following in Python:
 
 > Python's Simple Syntax
+
 > Variables
+
 > Conditions
+
 > Loops
+
 > Data Structures
+
 > Functions
+
 > Classes
+
 > Importing
 
 Python is the easiest language to learn due to its **minimal syntax** and **large amount** of **pre built functions**!
