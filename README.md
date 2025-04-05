@@ -29,10 +29,12 @@ It is also important that you all dress in appropriate computer science attire f
 
 I will provide:
 > my slideshow presentation
+
 > cloneable GitHub Repository containing all the code samples I covered
+
 > and above all... my knowledge to you ensuring you are all able to code basic programs in Python by the end of our `1 hour time together!` Make sure to stop by from `8pm - 9pm`, it will be fun and you will learn a lot!
 
-After the workshop we can (maybe) touch grass.
+After the workshop we can (maybe) **touch grass**.
 
 Definitions:
 
