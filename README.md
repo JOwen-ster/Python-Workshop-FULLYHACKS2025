@@ -23,7 +23,7 @@ I will be teaching you the following in Python:
 
 Python is the easiest language to learn due to its **minimal syntax** and **large amount** of **pre built functions**!
 
-Make sure to `shower` and `install Python3` along with `adding it to your PATH` Environment variables when installing it. You can install it (here!)[https://www.python.org/downloads]
+Make sure to **shower** and `install Python3` along with `adding it to your PATH` Environment variables when installing it. You can install it (here!)[https://www.python.org/downloads]
 
 It is also important that you all dress in appropriate computer science attire for my workshop! I am passionate about coding so its important to look the part and show off that you are all passionate as well! Attached to this message is an outfit I deem appropriate for my workshop :3
 
