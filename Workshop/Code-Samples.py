@@ -227,15 +227,21 @@ class Student:
     def __init__(self, name, age):
         self.name = name
         self.age = age
+        self.__private_var = 'private'
 
     def getName(self):
         return self.name
 
     def getAge(self):
         return self.age
+    
+    def getPrivateVar(self):
+        return self.__private_var
 
 myStudentObject = Student('Python', 18)
 print(myStudentObject.getName())
+# print(myStudentObject.__private_var) # error
+print(myStudentObject.getPrivateVar())
 
 # 1.
 import numpy
